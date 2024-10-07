@@ -1,7 +1,7 @@
 # Simple Telegram Bot
 
 <p align="center">
-    <img width="500" src="image.png" alt="Phone Mockup">
+    <img src="image.png" alt="Phone Mockup">
 </p>
 
 
