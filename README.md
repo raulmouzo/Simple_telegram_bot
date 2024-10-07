@@ -64,7 +64,7 @@ To run your bot as a service at system startup, you can create a systemd service
 
    ```ini
    [Unit]
-   Description=Telegram Echo Bot
+   Description=Telegram Bot
 
    [Service]
    ExecStart=/usr/bin/python3 /path/to/your/bot.py
